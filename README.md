@@ -115,6 +115,16 @@ You can use the one-click demo login buttons on the Login page (`/login`), or en
 - **Prisma Schema Validation**: `cd backend && npx prisma validate`
 
 ---
+## Screenshots
+
+### Splash Screen
+<img src="./screenshots/splashscreen" width="900">
+
+### Cart
+<img src="./screenshots/cart" width="900">
+
+### Dashboard
+<img src="./screenshots/dashboard" width="900">
 
 ## 🚀 Deployment
 
